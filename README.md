@@ -16,32 +16,22 @@ Welcome to the **WhatsApp Bulk Messaging & Group Sender** project! This Python-b
 
 ## 🔧 Installation
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/whatsapp-bulk-messenger.git
-
-1. **Clone the Repository**:  
+### 1. Clone the Repository:  
    Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/your-username/spam-email-filter.git
+   **git clone https://github.com/your-username/spam-email-filter.git**
 
-2. **Install Dependencies**:
+### 2. Install Dependencies:
    Make sure you have Python 3.6+ installed, then install the required libraries:.
-   '''bash
-   pip install -r requirements.txt
-
+   **pip install -r requirements.txt**
    The dependencies include
-   '''bash
-   pip install pywhatkit
-   pip install selenium
-   pip install csv
+   **pip install pywhatkit**
+   **pip install selenium**
+   **pip install csv**
 
-3. **Run the Application**:
-   Launch the Spam Email Filter by running the ui.py script.
-   '''bash
-   mian.py
+### 3. Run the Application:
+   **mian.py**
    or
-   alternative.py
+   **alternative.py**
 
 
 ## ⚙️ Usage:
